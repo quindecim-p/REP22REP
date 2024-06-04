@@ -1,0 +1,1 @@
+COUT << 'Hello world' << endl;
